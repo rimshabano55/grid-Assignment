@@ -1,0 +1,162 @@
+.main-container {
+  margin: 100px;
+  width: 1000px;
+  height: 300px;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-color: beige;
+  gap: 10px;
+  display: grid;
+  border: 10px solid;
+  text-align: center;
+}
+.blue-1 {
+  background-color: blue;
+}
+.blue-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.blue-a:visited {
+  color: aqua;
+}
+.yellow-2 {
+  background-color: yellow;
+}
+.yellow-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.yellow-a:visited {
+  color: black;
+}
+.red-3 {
+  background-color: red;
+}
+.red-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.red-a:visited {
+  color: rgb(120, 137, 99);
+}
+.green-4 {
+  background-color: green;
+}
+.green-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.green-a:visited {
+  color: rgb(227, 114, 133);
+}
+.grey-5 {
+  background-color: rgb(177, 173, 173);
+}
+.grey-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.grey-a:visited {
+  color: rgb(229, 239, 84);
+}
+.purple-6 {
+  background-color: purple;
+}
+.purple-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.purple-a:visited {
+  color: aquamarine;
+}
+.skyblue-7 {
+  background-color: skyblue;
+}
+.skyblue-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.peach-8 {
+  background-color: rgb(255, 212, 174);
+}
+.peach-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.peach-a:visited {
+  color: darkcyan;
+}
+.brown-9 {
+  background-color: rgb(83, 62, 62);
+}
+.brown-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.brown-a:visited {
+  color: purple;
+}
+.orange-10 {
+  background-color: orangered;
+}
+.orange-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.orange-a:visited {
+  color: black;
+}
+.golden-11 {
+  background-color: goldenrod;
+}
+.golden-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.golden-a:visited {
+  color: red;
+}
+.plam-12 {
+  background-color: plum;
+}
+.plam-a:link {
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
